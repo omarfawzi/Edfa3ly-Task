@@ -1,0 +1,11 @@
+{
+    "name": "coinsapi/exchanges-proxy",
+    "require": {
+        "slim/slim": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Edfa3ly\\": "src/"
+        }
+    }
+}
